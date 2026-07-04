@@ -1,0 +1,14 @@
+Las metodologias agiles permiten organizar el trabajo en etapas cortas y concretas, lo cual es ideal 
+para proyectos comunitarios donde los recursos y el tiempo suelen ser limitados. Al construir un 
+backlog, el equipo puede priorizar las tareas mas importantes y evitar perder tiempo en funcionalidades 
+que no son urgentes para la comunidad. Las historias de usuario ponen al ciudadano en el centro del 
+desarrollo, asegurando que cada funcionalidad tenga un proposito real y comprensible para quienes 
+van a usarla. La automatizacion con herramientas como n8n reduce la carga operativa del equipo, 
+permitiendo que tareas repetitivas como enviar notificaciones se hagan sin intervencion manual.
+Telegram, como canal de comunicacion, es una herramienta accesible y ampliamente usada que permite 
+mantener informados a los coordinadores y ciudadanos en tiempo real. Combinar automatizacion con 
+canales de mensajeria agiliza la respuesta ante nuevos reportes o incidencias, reduciendo los tiempos 
+de atencion. Ademas, usar Git para registrar cada cambio del proyecto garantiza trazabilidad, lo que 
+permite saber exactamente que se hizo, cuando y por quien. En conclusion, integrar metodologias agiles, 
+automatizacion y canales digitales como Telegram crea un ecosistema de trabajo mas organizado, 
+transparente y eficiente para cualquier proceso de participacion ciudadana.

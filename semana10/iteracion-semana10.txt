@@ -1,0 +1,16 @@
+Las 2 tareas del backlog que haria primero:
+
+1. Registrar una incidencia.
+2. Consultar todos los reportes registrados.
+
+Por que son las mas importantes:
+Estas dos tareas forman el nucleo del sistema. Sin poder registrar incidencias el sistema 
+no tiene razon de existir, y sin poder consultarlas no hay forma de hacer seguimiento. 
+Las demas funcionalidades dependen de que estas dos esten funcionando correctamente.
+
+Definicion de terminado:
+Una tarea esta terminada cuando cumple los siguientes criterios:
+1. Funciona correctamente y responde como se espera.
+2. Fue probada con al menos un ejemplo real enviado desde la terminal o un cliente HTTP.
+3. Quedo registrada en Git con un commit claro que describe el cambio realizado.
+4. No expone datos sensibles ni credenciales en el codigo publicado.
